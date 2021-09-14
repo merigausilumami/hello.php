@@ -1,2 +1,2 @@
-# hello.php
+# hello.html
 biodata
